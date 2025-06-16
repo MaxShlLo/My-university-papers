@@ -13,5 +13,5 @@ This repository contains lab works completed as part of my university studies, s
 - Assembly (x86)
 - C++
 - C (POSIX Threads)
-- Linux (Ubuntu)
+- Linux (Oracle VM VirtualBox)
 - Makefiles
